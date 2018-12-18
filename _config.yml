@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "사이트-타이틀"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "내 이름"
 description              : "An amazing website."
 url                      : "https://piligram.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
@@ -62,7 +62,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "나의 이름"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "내 소개"
+  location         : "내 로케이션"
   email            :
   links:
     - label: "Email"
